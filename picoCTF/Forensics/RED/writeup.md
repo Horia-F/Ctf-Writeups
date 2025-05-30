@@ -4,7 +4,7 @@
 
 ## Solution
 
-Upon analyzing the image with zsteg i noticed and interesting string 
+Upon analyzing the image with zsteg i noticed an interesting string 
 
 ![](./assets/step1.png)
 
