@@ -4,7 +4,7 @@
 
 ## Solution 
 
-I unziped the picture and used exiftool on it and noticed a base64 string
+I unziped the picture, used exiftool on it and noticed a base64 string
 
 ![](./assets/step2.png)
 
