@@ -46,10 +46,12 @@ Charon VI: 67e00e8ef738fe75afdb42b22e50371e
 Charon VI: b561052e5697ee5f1491b5e350fb78e1
 ```
 So i tought that the password had something to do with these hashes, i tried cracking the first few ones with an online cracking database 
+```
 5dbc98dcc983a70728bd082d1a47546e = $
 f72c915d8f575a5c0999b5f37b6d99b7 = $u
 a20bba554bfa1580a9d4aa2b6879ed46 = $up
-02beeea47ee3cfe212e6bd843b9ce7d3 = $up3 
+02beeea47ee3cfe212e6bd843b9ce7d3 = $up3
+```
 after trying to decode the 5th one, it failed, 
 I noticed a pattern tough each hash was the previous plus another letter 
 ```
@@ -140,10 +142,7 @@ I used Zsteg on it and got the flag
 
 
 
-
-
-
-![](assets/Step5/png)
+![](assets/Step5.png)
 
 
 
